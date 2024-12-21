@@ -1,0 +1,6 @@
+mkdir- to create folder
+cd -change directory 
+ls- list all files
+rm -removes  files
+touch - to create new files
+pwd- print
